@@ -3,11 +3,11 @@ Car suspension system modeling and oscillation analysis using Simulink.
 
 The damper in the car suspension model is as below:
 
-<img src="images/1.png" width="215" height="285">
+<img src="images/1.png" width="500" height="80">
 
 The differential equation corresponding to this model:
 
-<img src="images/2.png" width="500" height="80">
+<img src="images/2.png" width="215" height="285">
 
 The transfer function can be modeled using simulink blocks as below:
 
